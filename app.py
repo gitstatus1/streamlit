@@ -107,7 +107,7 @@ with st.container(border= True): #key= "Bollinger Bands"
                     ''',
                       unsafe_allow_html=True)
         st.write("##")
-        st.markdown(f'<p style="font-size:20px;">✨<a href="https://colab.research.google.com/drive/1-FdBnXT1b5TipWuWlfAq5H2NZVTz0sx4?usp=sharing" target="_blank">See Project Link✨</a></p>',
+        st.markdown(f'<p style="font-size:20px;">✨<a href="https://colab.research.google.com/drive/1bMFmZLgHHt3JNihy-QCZN8LRJOWkxW-Y?usp=sharing" target="_blank">See Project Link✨</a></p>',
         unsafe_allow_html=True)
     with right_col:
         st_lottie(stock_gif, key = 'stock', height = 500, width = 500)
